@@ -1,4 +1,4 @@
-Hi 👋 My name is Shiyam Robert
+Hi 👋 I'm Shiyam Robert
 ==============================
 
 Front-End Developer
