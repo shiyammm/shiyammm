@@ -9,7 +9,7 @@ Self-taught programmer with a relentless passion for continuous learning and gro
 * 🌍  I'm based in India
 * 🖥️  See my portfolio at [My Portfolio](http://s)
 * ✉️  You can contact me at [shiyamrobert@gmail.com](mailto:shiyamrobert@gmail.com)
-* 🚀  I'm currently working on [Rest Countries API Challenge from frontendmentor.io](http://l)
+* 🚀  I'm currently working on [Rest Countries API Challenge from frontendmentor.io](https://get-countries-api-with-theme-switcher.netlify.app/)
 * 🧠  I'm learning Next.js and Express.js
 
 # 💻 Tech Stack:
