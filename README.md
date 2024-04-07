@@ -23,6 +23,3 @@ Self-taught programmer with a relentless passion for continuous learning and gro
 
 ### 😂 Random Dev Meme
 <img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
-
----
-[![](https://visitcount.itsvg.in/api?id=Shiyammm&icon=4&color=1)](https://visitcount.itsvg.in)
