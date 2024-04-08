@@ -19,7 +19,7 @@
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Shiyammm&limit=5&theme=radical&combine_all_yearly_contributions=true)
-[![Shiyam's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=shiyammm&bg_color=000a2e&color=ffffff&line=00e1ff&point=6b9e6d&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Shiyam's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=shiyammm&bg_color=000a2e&color=ffffff&line=00e1ff&point=6b9e6d&area=true&hide_border=true)]
 
 ### 😂 Random Dev Meme
 <img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
