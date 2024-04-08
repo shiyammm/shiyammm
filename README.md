@@ -7,7 +7,7 @@
 ### Self-taught programmer with a relentless passion for continuous learning and growth. I thrive on embracing new challenges, diving into the world of coding, and pushing the boundaries of what's possible in the digital realm.
 
 #### * 🌍  I'm based in India
-#### * 🖥️  See my portfolio at [My Portfolio](https://shiyam-portfolio.vercel.app/)
+#### * 🖥️  See my portfolio at [My Portfolio](https://shiyam.vercel.app/)
 #### * ✉️  You can contact me at [shiyamrobert@gmail.com](mailto:shiyamrobert@gmail.com)
 #### * 🧠  I'm learning Next.js and Express.js
 
