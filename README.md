@@ -1,7 +1,8 @@
 # Hi 👋 I'm Shiyam Robert
 ==============================
 
-## Front-End Developer
+## Front-End Developer | Continuous Learner | Tech Enthusiast
+
 -------------------
 
 ##### I am a dedicated Front-End Developer fueled by curiosity and a relentless drive for innovation. My coding journey is marked by a deep-rooted commitment to expanding my skill set and embracing emerging technologies. With each project, I strive to push the boundaries of possibility and deliver exceptional solutions that make a difference.
