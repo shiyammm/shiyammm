@@ -1,7 +1,7 @@
 # Hi 👋 I'm Shiyam Robert
 ==============================
 
-## Front-End Developer | Continuous Learner | Tech Enthusiast
+## Front-End Developer | Tech Enthusiast
 
 -------------------
 
