@@ -4,8 +4,7 @@
 ## Front-End Developer
 -------------------
 
-#### Self-taught programmer with a relentless passion for continuous learning and growth. I thrive on embracing new challenges, diving into the world of coding, and pushing the boundaries of what's possible in the digital realm.
-
+##### I am a dedicated Front-End Developer fueled by curiosity and a relentless drive for innovation. My coding journey is marked by a deep-rooted commitment to expanding my skill set and embracing emerging technologies. With each project, I strive to push the boundaries of possibility and deliver exceptional solutions that make a difference.
 ##### * 🌍  I'm based in India
 ##### * 🖥️  See my portfolio at [My Portfolio](https://shiyam.vercel.app/)
 ##### * ✉️  You can contact me at [shiyamrobert@gmail.com](mailto:shiyamrobert@gmail.com)
